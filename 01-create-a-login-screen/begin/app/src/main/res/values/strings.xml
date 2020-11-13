@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Color Chat</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">LOGIN</string>
+    <string name="action_sign_up">SIGN UP</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >8 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="main_icon">Main Icon</string>
+    <string name="not_blank">%1$s must not be blank</string>
+    <string name="password_not_match">Passwords dont match</string>
+    <string name="date_format">MMMM dd, HH:mm</string>
+    <string name="email_not_valid">Email not valid</string>
+  <string name="network_error">Network error, try again later</string>
+  <string name="name_description_not_emty">Channel name and description must not be empty</string>
+  <string name="no_channels_yet">No channels yet</string>
+  <string name="empty_image">empty image</string>
+  <string name="hey">Hey!</string>
+  <string name="no_messages">No messages</string>
+  <string name="send_icon">send icon</string>
+  <string name="username">Username</string>
+  <string name="password">Password</string>
+  <string name="repeat_password">Repeat Password</string>
+</resources>
